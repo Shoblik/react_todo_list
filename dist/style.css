@@ -1,0 +1,17 @@
+body {
+    font-family: arial;
+    /*background-color: #0c5460;*/
+}
+h1 {
+    text-align: center;
+    color: #0c5460;
+}
+.buttonContainer {
+    position: relative;
+    /*left: 80%;*/
+    display: inline-block;
+}
+.title {
+    width: 80%;
+    display: inline-block;
+}
