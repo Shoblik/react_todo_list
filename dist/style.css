@@ -11,6 +11,9 @@ h1 {
     /*left: 80%;*/
     display: inline-block;
 }
+button {
+    margin: 0 5px !important;
+}
 .title {
     width: 80%;
     display: inline-block;
